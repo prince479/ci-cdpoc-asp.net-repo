@@ -1,0 +1,59 @@
+C:\Users\asiddique\source\repos\Learning\LearningAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\asiddique\source\repos\Learning\LearningAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\asiddique\source\repos\Learning\LearningAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\asiddique\source\repos\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.csprojAssemblyReference.cache
+C:\Users\asiddique\source\repos\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.AssemblyInfoInputs.cache
+C:\Users\asiddique\source\repos\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.AssemblyInfo.cs
+C:\Users\asiddique\source\repos\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.RazorAssemblyInfo.cache
+C:\Users\asiddique\source\repos\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.RazorAssemblyInfo.cs
+C:\Users\asiddique\source\repos\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.TagHelpers.input.cache
+C:\Users\asiddique\source\repos\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.TagHelpers.output.cache
+C:\Users\asiddique\source\repos\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.RazorCoreGenerate.cache
+C:\Users\asiddique\source\repos\Learning\LearningAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\asiddique\source\repos\Learning\LearningAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\asiddique\source\repos\Learning\LearningAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\asiddique\source\repos\Learning\LearningAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\asiddique\source\repos\Learning\LearningAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\asiddique\source\repos\Learning\LearningAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\asiddique\source\repos\Learning\LearningAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\asiddique\source\repos\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.RazorTargetAssemblyInfo.cache
+C:\Users\asiddique\source\repos\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.RazorTargetAssemblyInfo.cs
+C:\Users\asiddique\source\repos\Learning\LearningAPI\obj\Debug\netcoreapp3.1\staticwebassets\LearningAPI.StaticWebAssets.Manifest.cache
+C:\Users\asiddique\source\repos\Learning\LearningAPI\obj\Debug\netcoreapp3.1\staticwebassets\LearningAPI.StaticWebAssets.xml
+D:\AIS Migration\Learning\LearningAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\AIS Migration\Learning\LearningAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\AIS Migration\Learning\LearningAPI\bin\Debug\netcoreapp3.1\LearningAPI.StaticWebAssets.xml
+D:\AIS Migration\Learning\LearningAPI\bin\Debug\netcoreapp3.1\LearningAPI.exe
+D:\AIS Migration\Learning\LearningAPI\bin\Debug\netcoreapp3.1\LearningAPI.deps.json
+D:\AIS Migration\Learning\LearningAPI\bin\Debug\netcoreapp3.1\LearningAPI.runtimeconfig.json
+D:\AIS Migration\Learning\LearningAPI\bin\Debug\netcoreapp3.1\LearningAPI.runtimeconfig.dev.json
+D:\AIS Migration\Learning\LearningAPI\bin\Debug\netcoreapp3.1\LearningAPI.dll
+D:\AIS Migration\Learning\LearningAPI\bin\Debug\netcoreapp3.1\LearningAPI.pdb
+D:\AIS Migration\Learning\LearningAPI\bin\Debug\netcoreapp3.1\LearningAPI.Views.dll
+D:\AIS Migration\Learning\LearningAPI\bin\Debug\netcoreapp3.1\LearningAPI.Views.pdb
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.csproj.AssemblyReference.cache
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.AssemblyInfoInputs.cache
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.AssemblyInfo.cs
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.csproj.CoreCompileInputs.cache
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.RazorAssemblyInfo.cache
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.RazorAssemblyInfo.cs
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\staticwebassets\LearningAPI.StaticWebAssets.Manifest.cache
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.TagHelpers.input.cache
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.TagHelpers.output.cache
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.RazorCoreGenerate.cache
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.RazorTargetAssemblyInfo.cache
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.RazorTargetAssemblyInfo.cs
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.Views.pdb
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.dll
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.pdb
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.genruntimeconfig.cache
+D:\AIS Migration\Learning\LearningAPI\obj\Debug\netcoreapp3.1\LearningAPI.csproj.CopyComplete

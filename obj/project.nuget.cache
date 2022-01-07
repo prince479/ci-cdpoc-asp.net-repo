@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BqtcIm2jvW2YcPeVOhQmDqNJK4opUk/NxCYGQbC3E51PqV6akTcEEjEOytpd/CpZivuUZOYiDdCo6Ab4CYJjVA==",
+  "success": true,
+  "projectFilePath": "D:\\AIS Migration\\Learning\\LearningAPI\\LearningAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Prince Sharma\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
