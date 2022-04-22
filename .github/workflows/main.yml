@@ -1,0 +1,48 @@
+name: Deploy ASP.Net Core 
+
+on: 
+  push:
+    branches:
+      - master
+
+
+env:
+
+  AZURE_WEB_APPNAME: testgithubactions
+  AZURE_WEBAPP_PATH: '.'
+  DOTNET_VERSION: '3.1'
+jobs:
+  build-and-deploy:
+    runs-on: self-hosted
+    steps:
+      - uses: actions/checkout/@master
+
+      - name : Login VIA Azure CLI
+        uses : azure/login@v1
+        with:
+          creds: ${{ secret.AZURE_CREDENTIALS}}
+
+      - name : Setup .Net Core 
+        uses : actions/setup-dotnet@v1
+        with:
+            dotnet-version: ${{ env.DOTNET_VERSION }}
+      - name: dotnet build and publish
+        run: |
+          dotnet build --configuration Release
+          dotnet publish -c Release -o '${{ env.AZURE_WEBAPP_PATH }}/myapp'
+
+      # Deploy to Azure Web apps
+      - name: 'Run Azure webapp deploy action using publish profile credentials'
+        uses: azure/webapps-deploy@v2
+        with: 
+          app-name: ${{ env.AZURE_WEB_APPNAME }} # Replace with your app name
+          
+          package: '${{ env.AZURE_WEBAPP_PATH }}/myapp'
+
+
+
+
+
+
+
+
